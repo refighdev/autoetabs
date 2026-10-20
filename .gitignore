@@ -1,0 +1,13 @@
+# Local review material — never publish
+local-only/
+
+# Portable app is distributed as a Release ZIP, not in Git history
+app/
+
+# Test logs and archives
+*.log
+*.rar
+*.zip
+
+# OS noise
+.DS_Store
